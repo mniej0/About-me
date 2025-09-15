@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [twoja_nazwa]
+# 👋 Hi, I’m mniej0
 
 💀 I’m just a bitch who plays **CS2** and breaks keyboards faster than devs fix bugs.  
 💻 Currently learning **Java**, soon selling my soul to **Python**.  
